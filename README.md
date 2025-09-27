@@ -1,11 +1,11 @@
-#NewsWave- Stay ahead with Live headlines.
+##NewsWave- Stay ahead with Live headlines.
 
 A fully responsive News App built using **React.js** and **Tailwind CSS**, powered by **NewsAPI**.
 It displays the latest headlines from multiple categories (like Sports, Technology, Business, Entertainment, etc.) with a clean and modern UI.
 
 ---
 
-#Features
+##Features
 
 ✅ Fetches live news using **NewsAPI**
 ✅ Category-based filtering (Sports, Tech, Health, etc.)
@@ -16,7 +16,7 @@ It displays the latest headlines from multiple categories (like Sports, Technolo
 
 ---
 
-🛠️ #Tech Stack
+🛠️ ##Tech Stack
 
 **Frontend:** React.js, Tailwind CSS
 
@@ -28,5 +28,6 @@ It displays the latest headlines from multiple categories (like Sports, Technolo
 
 ---
 
-🤝 #Contributing
+🤝 ##Contributing
+
 Contributions are always welcome!
