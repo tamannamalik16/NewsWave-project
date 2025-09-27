@@ -1,16 +1,32 @@
-# React + Vite
+#NewsWave- Stay ahead with Live headlines.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A fully responsive News App built using **React.js** and **Tailwind CSS**, powered by **NewsAPI**.
+It displays the latest headlines from multiple categories (like Sports, Technology, Business, Entertainment, etc.) with a clean and modern UI.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+#Features
 
-## React Compiler
+✅ Fetches live news using **NewsAPI**
+✅ Category-based filtering (Sports, Tech, Health, etc.)
+✅ Responsive design (Mobile-first, works on all devices)
+✅ Dark / Light mode toggle 🌙☀️
+✅ React Router for seamless navigation
+✅ Reusable Components (Navbar, NewsCard, etc.)
 
-The React Compiler is not enabled on this template. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+🛠️ #Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+**Frontend:** React.js, Tailwind CSS
+
+**Routing:** React Router DOM
+
+**Icons:** React Icons
+
+**API:** NewsAPI.org
+
+---
+
+🤝 #Contributing
+Contributions are always welcome!
